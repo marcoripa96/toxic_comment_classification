@@ -2,6 +2,11 @@
 
 A toxic comment classification using BERT, RNNs, CNNs using data from https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge.
 
+# Group
+
+- Christian Bernasconi 816423
+- Marco Ripamonti 806785
+
 ## Methodology
 Two types of classification pipelines are built:
 
